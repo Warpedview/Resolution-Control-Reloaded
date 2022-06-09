@@ -1,0 +1,3 @@
+"modmenu": [
+    "io.github.ultimateboomer.resolutioncontrol.compat.modmenu.ModMenuInfo"
+]

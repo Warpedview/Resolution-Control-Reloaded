@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "resolutioncontrol",
+	"version": "${version}",
+
+	"name": "ResolutionControl Reloaded",
+	"description": "Change the scale the 3D portion of minecraft is rendered at",
+	"authors": [
+		"juliand665", "UltimateBoomer", "trisk", "saco"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": "",
+		"issues": ""
+	},
+
+	"license": "MIT",
+	"icon": "assets/resolutioncontrol/icon.png",
+
+	"environment": "client",
+	"entrypoints": {
+		"main": [
+			"io.github.saco.resolutioncontrol.ResolutionControlMod"
+		]
+		
+	},
+	"mixins": [
+		"resolutioncontrol.mixins.json"
+	],
+	"accessWidener": "resolutioncontrol.accesswidener",
+	"depends": {
+		"fabricloader": ">=0.14.7",
+		"fabric": "*",
+		"minecraft": ">=1.19",
+		"java": ">=17"
+	},
+	"suggests": {
+		"flamingo": "*"
+	}
+}
