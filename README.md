@@ -12,8 +12,6 @@ This mod has had a long history
 
 Gain more FPS by chaning the resolution the actual game renders at. This is present in most modern games and is an option along the lines of, "RenderScale"
 
-![main](GitHub/mainsettings.png)
-
 ---
 
 ### Antialiasing (or not)
