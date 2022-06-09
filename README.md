@@ -4,6 +4,8 @@
 
 # ResolutionControl Reloaded
 
+A Mod for Fabric and Quilt
+
 ResolutionControl Reloaded is a fork of [Resolution Control +](https://github.com/trisk/Resolution-Control), which is a fork of, [Resolution Control +](https://github.com/UltimateBoomer/Resolution-Control), which is a fork of, [Resolution Control](https://github.com/juliand665/Resolution-Control)
 
 This mod has had a long history
